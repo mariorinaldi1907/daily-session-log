@@ -1,7 +1,7 @@
 #!/bin/zsh
 set -euo pipefail
 
-REPO="$HOME/Projects/daily-session-log"
+REPO="$(cd "$(dirname "$0")/.." && pwd)"
 LOGFILE="$REPO/SESSION_LOG.md"
 
 cd "$REPO"
