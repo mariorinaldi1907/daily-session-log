@@ -5,3 +5,6 @@
 - 19:36:14 — Mario-Rinaldi-Macbook — Binary search is O(log n).
 - 19:55:11 — Mario-Rinaldi-Macbook — Refactor when it hurts, not when it’s perfect.
 - 20:03:11 — Mario-Rinaldi-Macbook — Refactor when it hurts, not when it’s perfect.
+
+## 2026-03-13
+- 10:26:45 — Mario-Rinaldi-Macbook — Keep commits small and meaningful.
