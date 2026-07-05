@@ -11,3 +11,6 @@
 
 ## 2026-05-03
 - 22:12:16 — Mario-Rinaldi-Macbook — Keep commits small and meaningful.
+
+## 2026-07-05
+- 19:06:36 — Mario-Rinaldi-Macbook — Write tests for edge cases.
