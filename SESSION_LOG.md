@@ -17,3 +17,6 @@
 
 ## 2026-09-05
 - 15:14:14 — Mario-Rinaldi-Macbook — Write tests for edge cases.
+
+## 2026-09-08
+- 17:23:12 — Mario-Rinaldi-Macbook — Name variables for clarity, not cleverness.
