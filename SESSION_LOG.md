@@ -20,3 +20,6 @@
 
 ## 2026-09-08
 - 17:23:12 — Mario-Rinaldi-Macbook — Name variables for clarity, not cleverness.
+
+## 2026-09-23
+- 21:36:58 — Mario-Rinaldi-Macbook — Binary search is O(log n).
