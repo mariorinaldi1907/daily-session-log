@@ -23,3 +23,6 @@
 
 ## 2026-09-23
 - 21:36:58 — Mario-Rinaldi-Macbook — Binary search is O(log n).
+
+## 2026-09-28
+- 16:23:37 — Mario-Rinaldi-Macbook — Binary search is O(log n).
